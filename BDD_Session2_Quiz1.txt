@@ -1,0 +1,89 @@
+1. Concept used in Hadoop is:
+	a. Divide and conquer
+	b. Map and Reduce
+	c. On demand data
+	d. None of these
+	
+	Answer: a. Divide and conquer
+	
+2. Hadoop divides data into:
+	a. Blocks
+	b. Parts
+	c. Chunks
+	d. All of the above
+	
+	Answer: a. Blocks
+	
+3. Each node results are stored in:
+	a. HDFS
+	b. Local disk
+	c. Cloud storage
+	d. None of these
+	
+	Answer: b. Local disk
+	
+4. Which of these can be related to Hadoop 1.x?
+	a. Job Tracker, Task tracker, Name node & Data node
+	b. Job process, Task process, Name cluster
+	c. Data cluster, Task cluster, Name node
+	d. Job process, Task process,  Name node & Data node
+	
+	Answer: a. Job Tracker, Task Tracker, Name node & Data node
+	
+5. Who is the master in Hadoop?
+	a. Namenode
+	b. Datanode
+	c. Everynode
+	d. All of the above
+	
+	Answer: a. Namenode
+	
+6. Who are the job trackers in Hadoop?
+	a. Slaves
+	b. Masters
+	c. Both of these
+	d. None of these
+	
+	Answer: b. Masters
+
+7. Which node stores the metadata?
+	a. Namenode
+	b. Check point node
+	c. Secondary name node
+	d. Backup node
+	
+	Answer: a Namenode
+	
+8. Which is not a valid Daemon in Hadoop?
+	a. Namenode
+	b. Secondary Namenode
+	c. Checkpoint node
+	d. Datanode
+	
+	Answer: c. Checkpoint node
+	
+9. By default, memory size of Data nodes is limited to?
+	a. 32MB
+	b. 64MB
+	c. 128MB
+	d. b & c
+	
+	Answer: d. b & c
+	
+10. Slave layer in Hadoop Architecture contains:
+	a. Namenode & Resource Manager
+	b. Datanodes & Node Manager
+	c. Namenode & Node Manager
+	d. Datanodes & Resource Manager
+	
+	Answer: b. Datanodes & Node Manager
+
+11. Data is replicated among:
+	a. Name nodes
+	b. Data nodes
+	c. Both of these
+	d. None of these
+	
+	Answer: c. Both of these
+	
+	
